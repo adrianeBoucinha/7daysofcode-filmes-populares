@@ -9,11 +9,11 @@ Criando uma página dinâmica de Filmes Populares e consumindo a API do 'The Mov
 | -------------  | --- |
 | :sparkles: Nome        | **FILMES POPULARES - HTML, CSS e JAVASCRIPT**
 | :label: Tecnologias | HTML, CSS, JAVASCRIPT
-| :rocket: URL         | https://adrianeboucinha.github.io/bytebank-alura/
+| :rocket: URL         | https://adrianeboucinha.github.io/7daysofcode-filmes-populares/
 | :fire: Desafio     | https://7daysofcode.io/matricula/javascript-e-dom-api
 
 <!-- Inserir imagem com a #vitrinedev ao final do link -->
-![https://adrianeboucinha.github.io/bytebank-alura/#vitrinedev](https://adrianeboucinha.github.io/bytebank-alura/#vitrinedev)
+![https://adrianeboucinha.github.io/7daysofcode-filmes-populares/#vitrinedev](https://adrianeboucinha.github.io/7daysofcode-filmes-populares/#vitrinedev)
 
 
 ## Detalhes do projeto FILMES POPULARES da Alura
